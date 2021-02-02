@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0cFfkS191eiUDiFU1NW2cwOMbD95/8KvZvXQ0YCUIPTrOYTt777Gw+cBf0U6NZy95cFqj79B9anQkBGoW0AIA==",
+  "success": true,
+  "projectFilePath": "/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms.iOS/DiscoveryXamarinForms.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/chris.vazquez/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

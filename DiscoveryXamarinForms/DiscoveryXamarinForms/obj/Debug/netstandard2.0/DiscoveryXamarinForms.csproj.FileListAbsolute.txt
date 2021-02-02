@@ -1,0 +1,12 @@
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/bin/Debug/netstandard2.0/DiscoveryXamarinForms.deps.json
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/bin/Debug/netstandard2.0/DiscoveryXamarinForms.dll
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/bin/Debug/netstandard2.0/DiscoveryXamarinForms.pdb
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.csprojAssemblyReference.cache
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.AssemblyInfoInputs.cache
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.AssemblyInfo.cs
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.csproj.CoreCompileInputs.cache
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.dll
+/Users/chris.vazquez/RiderProjects/DiscoveryXamarinForms/DiscoveryXamarinForms/DiscoveryXamarinForms/obj/Debug/netstandard2.0/DiscoveryXamarinForms.pdb
